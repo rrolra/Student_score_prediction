@@ -5,10 +5,10 @@ Ricardo Roldán
 
 ## Análisis y elaboración de un modelo Machine Learning para predecir el aprobado o no de un alumno
 
-En el presente informe, se va a describir cómo se ha realizado un
-análisis exploratorio y se han elaborado dos modelos Machine Learning a
-partir de un dataset que contiene las diferentes notas obtenidas por los
-alumnos en la asignatura de matemáticas en dos colegios portugueses,
+En el presente informe se va a describir y detallar cómo se ha realizado
+un análisis exploratorio y se han elaborado dos modelos Machine Learning
+a partir de un dataset que contiene las diferentes notas obtenidas por
+los alumnos en la asignatura de matemáticas en dos colegios portugueses,
 además de otras variables relacionadas con el contexto de cada alumno.
 El objetivo de esta tarea no es más que establecer un modelo que nos
 permita predecir si un alumno va a aprobar o no (varíable *pass*),
